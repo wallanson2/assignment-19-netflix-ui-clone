@@ -1,0 +1,60 @@
+@import "./imports/_normalize.scss";
+
+*{ box-sizing: border-box }
+img {
+   width: 100%;
+   display: block;
+}
+
+#app-container{
+  background: #000
+
+}
+h1, h2, h3, h4 {
+  color: #ffffff
+}
+h1 {
+  padding-left: 40px;
+}
+
+.homeButton i {
+  position: relative;
+  top: 10px;
+  left: 1050px;
+}
+.homeButton {
+  color: #ffffff;
+}
+.userBox:hover {
+  background-color: #491412;
+}
+//
+// .header {
+//   padding-left: 50px;
+//   padding-top: 20px;
+//   color: #ffffff;
+// }
+// .col-container {
+//   // display: inline-block;
+//   // vertical-align: top;
+//   padding: 40px;
+//   text-align: center;
+//
+// }
+// .col-container img {
+//   padding: 10px;
+// }
+// .container1 {
+//   margin-left: 50px;
+// }
+// a {
+//   color: #ffffff;
+//   font-size: 1.5em;
+//   text-decoration: none;
+//
+// }
+// i {
+//   color: #ffffff;
+//   height: 40px;
+//   width: 40px;
+// }
